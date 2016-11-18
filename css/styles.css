@@ -102,8 +102,10 @@
   
 .toppings {
    float: left;
-   margin-top: -65;
+   margin-top: 250px;
     list-style: none;
+    
+
 }
 
 
@@ -112,12 +114,12 @@
   display: block; 
   padding: 12px 18px; 
   text-decoration: none; 
-  color: #F00;
+  color: black;
   border-bottom: 1px solid #eee;
   transition: all ease .5s;
   font-size: 36px;
   z-index: 1;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   
 }
 
@@ -190,7 +192,7 @@
    margin-top: 100px;
    border: solid white;
 }
-/* ===== cloud 9 has me so confused ========== */
+/* ===== cloud 9 has me so  ========== */
 .olives {
    float: left;
    z-index: 1;
@@ -223,5 +225,5 @@
     border: solid white;
 }
 #background {
-    background-image: url("images/pizza.jpg");
+    background-image: url("images/p");
     background-size: cover;
